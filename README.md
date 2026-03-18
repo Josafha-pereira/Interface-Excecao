@@ -1,6 +1,6 @@
 # 📚 Conceitos de Java — Interface e Exceção
 
-Este repositório contém exemplos práticos de dois conceitos fundamentais da linguagem Java: **Interfaces** e **Tratamento de Exceções**. Cada conceito está organizado em sua própria subpasta.
+Este repositório contém exemplos práticos de dois conceitos fundamentais da linguagem Java: **Interfaces** e **Tratamento de Exceções**.
 
 ---
 
